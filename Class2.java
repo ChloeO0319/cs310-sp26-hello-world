@@ -13,4 +13,8 @@ public class Class2 {
     System.out.println("Feature f2");
     }
 
+    public void f3() {
+    System.out.println("Feature f3");
+    }
+
 }
